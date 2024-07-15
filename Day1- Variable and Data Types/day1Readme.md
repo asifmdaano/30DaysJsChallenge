@@ -1,0 +1,36 @@
+# Day 1: Variable and Data Types
+
+## Tasks/Activities
+
+#### Activity 1: Variable Declaration
+
+- **Task 1:** Declare a variable using <code>var</code>, assign it a number, and log the value to the console.
+- **Task 2:** Declare a variable using <code>let</code>,assign it a string, and log the value to the console.
+  
+#### Activity 2: Constant Declaration
+
+- **Task 3:** Declare a variable using <code>const</code>, assign it a boolean value, and log the value to the console.
+  
+#### Activity 3: Data Types
+
+- **Task 4:** Create variables of different data types (number, string, boolean, object, array) and log each variable's type using the <code>typeof</code> operator.
+  
+#### Activity 4: Reassigning Variables
+
+- **Task 5:** Declare a variable using <code>let</code>, assign it an initial value, reassign a new value, and log both values to the console.
+  
+#### Activity 5: Understanding <code>const</code>
+
+- **Task 6:** Try reassigning a variable declared with <code>const</code> and observe the error.
+
+
+## Feature Request:
+1. **Variable Types Console Log:** Write a script that declares variables of different data types and logs both the value and type of each variable to the console.
+2. **Reassignment Demo:** Create a script that demonstrates the difference in behavior between <code>let</code> and <code>const</code> when it comes to reassignement. 
+
+## Achievement:
+By the end of these activities, you will:
+- Know how to declare variables using <code> var</code>, <code>let</code> and <code>const</code>.
+- Understanding the different data types in JavaScript.
+- Be able to use the <code>typeof</code> operator to identify the data type of a variable.
+- Understand the concept of variable reassignment and the immutability of <code> const</code> variables.
