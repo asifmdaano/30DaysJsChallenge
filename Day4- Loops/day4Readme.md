@@ -18,7 +18,7 @@
 - **Task 6:** Write a program to calculate the factorial of a number using a do...while loop.
   
 #### Activity 4: Nested Loops
-- **Task 7:** Write a program to print a patter using nested for loops.
+- **Task 7:** Write a program to print a pattern using nested for loops.
   
   ```java
   --------- Output looks like ---------
@@ -33,7 +33,7 @@
 #### Activity 5: Loop Control Statements
 
 - **Task 8:** Write a program to print numbers form 1 to 10, but skip the number 5 using the <code>continue</code> statement.
-- **Task 9:** Write a program to print numbers form 1 to 10, but stop the looop when the number is 7 using the <code> break</code> statement.
+- **Task 9:** Write a program to print numbers form 1 to 10, but stop the loop when the number is 7 using the <code> break</code> statement.
   
 ## Feature Request:
 
