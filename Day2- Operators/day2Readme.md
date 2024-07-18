@@ -2,7 +2,7 @@
 
 ## Tasks/Activities:
 
-#### Activity 1: Arthmetic Operations
+#### Activity 1: Arithmetic Operations
 
 - **Task 1:** Write a program to add two numbers and log the result to the console.
 - **Task 2:** Write a program to subtract two numbers and log the result to the console.
@@ -34,15 +34,15 @@
 ## Feature Request:
 
 1. **Arithmetic Operations Script:** Write  a script that performs basic arithmetic operations (addition, subtraction, multiplication, division, remainder) on two number and log the results to the console.
-2. **Comparison and Loggical Operator Script:** Create a script that compare two numbers using different comparision operators and combines conditions using logical operators, logging the results.
+2. **Comparison and Logical Operator Script:** Create a script that compare two numbers using different comparison operators and combines conditions using logical operators, logging the results.
 3. **Ternary Operator Script:** Write a script that uses the ternary operator to determine if a number is positive or negative and logs the result.
    
 ## Achievement:
 
-By the end of these activites, students will:
+By the end of these activities, students will:
 - Understand and use of arithmetic operators to perform basic calculations.
 - Use assignment operators to modify variable values.
-- Compare values using comarison operators.
+- Compare values using comparison operators.
 - Combine conditions using logical operators.
 - Use the ternary operator for concise conditional expressions.
 

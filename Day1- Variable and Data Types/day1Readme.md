@@ -26,7 +26,7 @@
 
 ## Feature Request:
 1. **Variable Types Console Log:** Write a script that declares variables of different data types and logs both the value and type of each variable to the console.
-2. **Reassignment Demo:** Create a script that demonstrates the difference in behavior between <code>let</code> and <code>const</code> when it comes to reassignement. 
+2. **Reassignment Demo:** Create a script that demonstrates the difference in behavior between <code>let</code> and <code>const</code> when it comes to reassignment. 
 
 ## Achievement:
 By the end of these activities, you will:
