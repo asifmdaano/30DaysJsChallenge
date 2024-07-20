@@ -1,4 +1,4 @@
-# Day 5: Arrays
+# Day 6: Arrays
 
 ## Tasks/Activities:
 
