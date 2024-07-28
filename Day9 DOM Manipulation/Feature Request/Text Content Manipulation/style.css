@@ -1,0 +1,43 @@
+/* Basic reset for padding and margin */
+body, ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Navbar container */
+.navbar {
+    background-color: #ec5a05;
+    overflow: hidden;
+}
+
+/* Navbar list */
+.navbar-list {
+    display: flex;
+    justify-content: center;
+}
+
+/* Navbar items */
+.navbar-item {
+    margin: 0px 20px;
+    font-size: 24px;
+}
+
+/* Navbar links */
+.navbar-link {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+    transition: background-color 0.2s;
+}
+
+/* Hover effect for links */
+.navbar-link:hover {
+    background-color: #fd7303;
+}

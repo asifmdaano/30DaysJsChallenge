@@ -1,0 +1,1 @@
+document.getElementById('changeContent').textContent = "Gaming";
